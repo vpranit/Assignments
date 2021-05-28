@@ -1,0 +1,47 @@
+*{
+    margin: 0;padding: 0;
+}
+
+header{
+    width:100% ;
+}
+
+.navsection{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: left;
+    align-items: center;   
+    padding: 0px 16px 5px 12px;
+
+}
+
+.logo{
+    padding: 16px;
+}
+
+.mainhtml{
+    background-color: #282A35;
+    font-family: sans-serif;
+
+}
+
+.leftside{
+    width: 50%;
+    padding: 3%;
+    text-align: center;
+}
+
+.rightside{
+    padding: 3%;
+    width: 40%;
+}
+
+.grey_background{
+    background-color: #e7e9eb;
+    color: black;
+}
+
+.rounded_corners{
+    border-radius: 5px;
+}
