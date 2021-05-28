@@ -1,0 +1,27 @@
+.green_button{
+    background-color: #04aa6d;
+    color: white;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.white_button{
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    margin: auto;
+    display: block;
+    width: 200px;
+    border-radius: 25px;
+
+}
+
+.btn_common{
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+
+}
