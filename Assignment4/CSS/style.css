@@ -59,3 +59,64 @@ span{
 .shadow{
     box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
 }
+
+.color_pink{
+    background-color: #ffc0c7;
+    padding: 24px;
+    color: black;
+    border-radius: 5px;
+
+}
+
+.color_yellow{
+    background-color: #fff4a3;
+    padding: 24px;
+    color: black;
+    border-radius: 5px;
+
+}
+
+.color_grey{
+    background-color: #f3ecea;
+    padding: 24px;
+    color: black;
+    border-radius: 5px;
+
+}
+
+.color_ocengreen{
+    background-color: #d9eee1;
+    padding: 24px;
+    color: black;
+    border-radius: 5px;
+
+}
+
+.color_greenblue{
+    background-color: #96d4d4;
+    padding: 24px;
+    color: black;
+    border-radius: 5px;
+
+}
+
+.color_purplegrey{
+    background-color: #e7e9eb;
+    padding: 24px;
+    color: black;
+    border-radius: 5px;
+
+}
+
+.table4col{
+    padding: 2% 3%;
+    width: 25%;
+}
+
+.table2col{
+    padding: 2% 3%;
+    width: 100%;
+    
+}
+
+
